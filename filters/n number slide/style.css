@@ -1,0 +1,24 @@
+/* style sheet  for slider */
+body{
+  background-color: red;
+}
+.slider{
+  margin: 50px auto;
+  width: 50%;
+}
+.img-box img{
+  width: 50%;
+  height: 50%;
+}
+.btn{
+  margin-left: 30%;
+  border: none;
+  outline: none;
+  background-color: black;
+  padding: 10px 30px;
+  color: white;
+  cursor: pointer;
+}
+.btn:hover{
+  background: gray;
+}
